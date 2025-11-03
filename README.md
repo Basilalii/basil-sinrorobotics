@@ -8,11 +8,11 @@ Sinrorobotics pvt ltd is a deep tech system integration provider specializing in
 We strengthen industries, commercial complexes, & urban projects with ai powered surveillance, intelligent building management, & full automation.
 Our goal is to engineer intelligent, safer, and more networked environments via advancement, reliability, & performance.
 ## Important services
-[electronic hardware design](https://www.sinrorobotics.com/services/electronic-hardware-design/) design & development of tailored embedded hardware & electronics for industrial & iot usages.
-[printed circuit board designing & manufacturing services](https://www.sinrorobotics.com/services/pcb-design-manufacturing/) all inclusive printed circuit board layout, prototyping, & manufacturing services enhanced for expandability and processes.
+[electronic hardware design] Design & development of tailored embedded hardware & electronics for industrial & iot usages.
+[printed circuit board designing & manufacturing services] All inclusive printed circuit board layout, prototyping, & manufacturing services enhanced for expandability and processes.
 internet of things device design and prototyping - (https://www.sinrorobotics.com/services/iot-device-design/)
 full-cycle internet of things device design & networking — combining hardware & software to build smart, insight-driven systems.
-[elv (extra low voltage) system](https://www.sinrorobotics.com/services/elv-systems/)all-inclusive elv system solutions that improve building intelligence, safety, & communication.
+Elv (extra low voltage) system - All-inclusive elv system solutions that improve building intelligence, safety, & communication.
 Our integrated elv offerings consists of:
 - **iot-based building management systems (BMS)**
 - **Smart surveillance & CCTV systems**
@@ -36,7 +36,7 @@ Brand name: Sinro Robotics
 Located at: Sinro arcade, 2nd Floor, Palarivattom, Ernakulam, Kerala, India – 682025
 Email @: [sales@sinrorobotics.com](mailto:sales@sinrorobotics.com)
 Contact no: +917593833663
-Website: https://www.sinrorobotics.com (https://www.sinrorobotics.com)
+Website: https://www.sinrorobotics.com 
 Founders
 - Nebu John – Co-Founder & Managing Director
 - Sindhu Ann john – Co-Founder & Director
