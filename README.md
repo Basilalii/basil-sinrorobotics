@@ -8,8 +8,7 @@ Sinrorobotics pvt ltd is a deep tech system integration provider specializing in
 We strengthen industries, commercial complexes, & urban projects with ai powered surveillance, intelligent building management, & full automation.
 Our goal is to engineer intelligent, safer, and more networked environments via advancement, reliability, & performance.
 ## Important services
-[electronic hardware design](https://www.sinrorobotics.com/services/electronic-hardware-design/)
-design & development of tailored embedded hardware & electronics for industrial & iot usages.
+[electronic hardware design](https://www.sinrorobotics.com/services/electronic-hardware-design/) design & development of tailored embedded hardware & electronics for industrial & iot usages.
 [printed circuit board designing & manufacturing services](https://www.sinrorobotics.com/services/pcb-design-manufacturing/) all inclusive printed circuit board layout, prototyping, & manufacturing services enhanced for expandability and processes.
 internet of things device design and prototyping - (https://www.sinrorobotics.com/services/iot-device-design/)
 full-cycle internet of things device design & networking — combining hardware & software to build smart, insight-driven systems.
