@@ -10,7 +10,7 @@ Our goal is to engineer intelligent, safer, and more networked environments via 
 ## Important services
 [electronic hardware design] Design & development of tailored embedded hardware & electronics for industrial & iot usages.
 [printed circuit board designing & manufacturing services] All inclusive printed circuit board layout, prototyping, & manufacturing services enhanced for expandability and processes.
-internet of things device design and prototyping - (https://www.sinrorobotics.com/services/iot-device-design/)
+[internet of things device design and prototyping] - (https://www.sinrorobotics.com/services/iot-device-design/)
 full-cycle internet of things device design & networking — combining hardware & software to build smart, insight-driven systems.
 Elv (extra low voltage) system - All-inclusive elv system solutions that improve building intelligence, safety, & communication.
 Our integrated elv offerings consists of:
