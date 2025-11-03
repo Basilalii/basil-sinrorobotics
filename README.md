@@ -37,6 +37,8 @@ We also operate Sinro Tech Learning, our education division focused on iot, robo
 Legal name: Sinro Robotics Pvt Ltd
 Brand name: Sinro Robotics
 Located at: Sinro arcade, 2nd Floor, Palarivattom, Ernakulam, Kerala, India – 682025
+
+
 Email @: [sales@sinrorobotics.com](mailto:sales@sinrorobotics.com)
 
 Contact no: +917593833663
