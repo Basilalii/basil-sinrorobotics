@@ -6,11 +6,15 @@ I am Basil from sinrorobotics pvt ltd which is a robotics company in Kerala, Ind
 
 
 [Sinro Robotics](https://www.sinrorobotics.com) is Kerala’s top **system integration & elv solutions company**, supplying latest **embedded systems, iot devices, & mechanization techs** designed to scale with your vision.
+
 ## About Us
+
 Sinrorobotics pvt ltd is a deep tech system integration provider specializing in electronic hardware design, iot-employed automation, & elv (extra low voltage) systems for intelligent infrastructures.
 We strengthen industries, commercial complexes, & urban projects with ai powered surveillance, intelligent building management, & full automation.
 Our goal is to engineer intelligent, safer, and more networked environments via advancement, reliability, & performance.
+
 ## Important services
+
 [electronic hardware design] Design & development of tailored embedded hardware & electronics for industrial & iot usages.
 [printed circuit board designing & manufacturing services] All inclusive printed circuit board layout, prototyping, & manufacturing services enhanced for expandability and processes.
 [internet of things device design and prototyping](https://www.sinrorobotics.com/services/iot-device-design/)
@@ -45,6 +49,8 @@ Contact no: +917593833663
 
 
 Website: https://www.sinrorobotics.com 
+
+
 Founders
 - Nebu John – Co-Founder & Managing Director
 - Sindhu Ann john – Co-Founder & Director
@@ -54,4 +60,6 @@ Connect With Us
 - [Facebook](https://www.facebook.com/sinrorobotics)
 - [Twitter (X)](https://x.com/SinroRobotics)
 © 2025 Sinro Robotics Pvt Ltd. All Rights Reserved.
+
+
 Kerala’s Largest System Integration Provider | Innovative Embedded & ELV Solutions | IoT & Automation Experts in Kochi
